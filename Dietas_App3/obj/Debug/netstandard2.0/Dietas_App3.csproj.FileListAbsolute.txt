@@ -1,0 +1,105 @@
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3\bin\Debug\netstandard2.0\Dietas_App3.deps.json
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3\bin\Debug\netstandard2.0\Dietas_App3.dll
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3\bin\Debug\netstandard2.0\ref\Dietas_App3.dll
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3\bin\Debug\netstandard2.0\Dietas_App3.pdb
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3\obj\Debug\netstandard2.0\Dietas_App3.csproj.AssemblyReference.cache
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3\obj\Debug\netstandard2.0\Dietas_App3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3\obj\Debug\netstandard2.0\View\Cena.xaml.g.cs
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3\obj\Debug\netstandard2.0\View\Comida.xaml.g.cs
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3\obj\Debug\netstandard2.0\View\Desayuno.xaml.g.cs
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3\obj\Debug\netstandard2.0\View\HipocaloricaView.xaml.g.cs
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3\obj\Debug\netstandard2.0\View\LoadingView.xaml.g.cs
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3\obj\Debug\netstandard2.0\View\MantenerseView.xaml.g.cs
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3\obj\Debug\netstandard2.0\View\Merienda.xaml.g.cs
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3\obj\Debug\netstandard2.0\View\MusculoView.xaml.g.cs
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3\obj\Debug\netstandard2.0\View\PaginaPrincipal.xaml.g.cs
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3\obj\Debug\netstandard2.0\View\TiposDietas.xaml.g.cs
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3\obj\Debug\netstandard2.0\Dietas_App3.AssemblyInfoInputs.cache
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3\obj\Debug\netstandard2.0\Dietas_App3.AssemblyInfo.cs
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3\obj\Debug\netstandard2.0\Dietas_App3.csproj.CoreCompileInputs.cache
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3\obj\Debug\netstandard2.0\Dietas_App3.dll
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3\obj\Debug\netstandard2.0\ref\Dietas_App3.dll
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3\obj\Debug\netstandard2.0\Dietas_App3.pdb
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3\bin\Debug\netstandard2.0\Dietas_App3.deps.json
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3\bin\Debug\netstandard2.0\Dietas_App3.dll
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3\bin\Debug\netstandard2.0\ref\Dietas_App3.dll
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3\bin\Debug\netstandard2.0\Dietas_App3.pdb
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\Dietas_App3.csproj.AssemblyReference.cache
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\Dietas_App3.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\View\Cena.xaml.g.cs
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\View\Comida.xaml.g.cs
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\View\Desayuno.xaml.g.cs
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\View\HipocaloricaView.xaml.g.cs
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\View\LoadingView.xaml.g.cs
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\View\MantenerseView.xaml.g.cs
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\View\Merienda.xaml.g.cs
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\View\MusculoView.xaml.g.cs
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\View\PaginaPrincipal.xaml.g.cs
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\View\TiposDietas.xaml.g.cs
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\Dietas_App3.AssemblyInfoInputs.cache
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\Dietas_App3.AssemblyInfo.cs
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\Dietas_App3.csproj.CoreCompileInputs.cache
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\XamlC.stamp
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\Dietas_App3.dll
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\ref\Dietas_App3.dll
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\Dietas_App3.pdb
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3\bin\Debug\netstandard2.0\Dietas_App3.deps.json
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3\bin\Debug\netstandard2.0\Dietas_App3.dll
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3\bin\Debug\netstandard2.0\ref\Dietas_App3.dll
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3\bin\Debug\netstandard2.0\Dietas_App3.pdb
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\Dietas_App3.csproj.AssemblyReference.cache
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\Dietas_App3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\View\Cena.xaml.g.cs
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\View\Desayuno.xaml.g.cs
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\View\LoadingView.xaml.g.cs
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\View\MantenerseView.xaml.g.cs
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\View\Merienda.xaml.g.cs
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\View\MusculoView.xaml.g.cs
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\View\PaginaPrincipal.xaml.g.cs
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\View\TiposDietas.xaml.g.cs
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\Dietas_App3.AssemblyInfoInputs.cache
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\Dietas_App3.AssemblyInfo.cs
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\Dietas_App3.csproj.CoreCompileInputs.cache
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\Dietas_App3.dll
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\ref\Dietas_App3.dll
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\Dietas_App3.pdb
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\View\ComidaView.xaml.g.cs
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\View\Almuerso.xaml.g.cs
+<<<<<<< HEAD
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\View\HipocaloricaTabb.xaml.g.cs
+=======
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3\bin\Debug\netstandard2.0\Dietas_App3.deps.json
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3\bin\Debug\netstandard2.0\Dietas_App3.dll
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3\bin\Debug\netstandard2.0\ref\Dietas_App3.dll
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3\bin\Debug\netstandard2.0\Dietas_App3.pdb
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\Dietas_App3.csproj.AssemblyReference.cache
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\Dietas_App3.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\View\Almuerso.xaml.g.cs
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\View\Cena.xaml.g.cs
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\View\ComidaView.xaml.g.cs
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\View\Desayuno.xaml.g.cs
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\View\HipocaloricaView.xaml.g.cs
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\View\LoadingView.xaml.g.cs
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\View\MantenerseView.xaml.g.cs
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\View\Merienda.xaml.g.cs
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\View\MusculoView.xaml.g.cs
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\View\PaginaPrincipal.xaml.g.cs
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\View\TiposDietas.xaml.g.cs
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\Dietas_App3.AssemblyInfoInputs.cache
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\Dietas_App3.AssemblyInfo.cs
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\Dietas_App3.csproj.CoreCompileInputs.cache
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\XamlC.stamp
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\Dietas_App3.dll
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\ref\Dietas_App3.dll
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3\obj\Debug\netstandard2.0\Dietas_App3.pdb
+>>>>>>> 8b3bb39310e2115cefb951a1f3420fee380d7bae

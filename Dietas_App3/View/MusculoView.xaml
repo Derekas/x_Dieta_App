@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Dietas_App3.View.MusculoView"
+             BackgroundColor="#B29E81">
+    <ContentPage.Content>
+        <StackLayout>
+
+            <Label Text="Calories" TextColor="White" FontSize="12" HorizontalTextAlignment="Start" FontAttributes="Italic" FontFamily=""></Label>
+            <Label Text="Proteines" TextColor="White" FontSize="12" HorizontalTextAlignment="Start" FontAttributes="Italic" FontFamily=""></Label>
+            <Label Text="Idratos de carbono" TextColor="White" FontSize="12" HorizontalTextAlignment="Start" FontAttributes="Italic" FontFamily=""></Label>
+            <Label Text="Grasas" TextColor="White" FontSize="12" HorizontalTextAlignment="Start" FontAttributes="Italic" FontFamily=""></Label>
+            <StackLayout Spacing="10" Padding="20" >
+
+
+
+
+            </StackLayout>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

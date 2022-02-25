@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Dietas_App3.View.HipocaloricaTabb"
+            BackgroundColor="#B29E81">
+  <!--Pages can be added as references or inline-->
+    <ContentPage Title="Desayuno">
+        <StackLayout>
+            <Label Text="Desayuno" TextColor="#9BFE9B" FontSize="20" HorizontalTextAlignment="Center" Margin="10" FontAttributes="Italic" FontFamily=""></Label>
+            <ListView ItemsSource="{Binding Desayunos}" CachingStrategy="RecycleElement">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout>
+                                <Grid>
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="*"></RowDefinition>
+
+
+                                    </Grid.RowDefinitions>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="*"></ColumnDefinition>
+                                        <ColumnDefinition Width="*"></ColumnDefinition>
+
+                                    </Grid.ColumnDefinitions>
+                                    <Label Text="{Binding Nom}" HorizontalTextAlignment="Center" Grid.Column="0" Grid.Row="0" TextColor="White">
+
+                                    </Label>
+                                    <Button Text="-" Clicked="Deladesayuno" CommandParameter="{Binding .}" Grid.Column="1" Grid.Row="0"></Button>
+
+                                </Grid>
+                            </StackLayout>
+                        </ViewCell>
+
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            <Button Text="+" Clicked="Añadirdesayuno"></Button>
+        </StackLayout>
+    </ContentPage>
+    <ContentPage Title="Almuerzo">
+        <StackLayout>
+            <Label Text="Almuerso" TextColor="#9BFE9B" FontSize="20" HorizontalTextAlignment="Center" Margin="10" FontAttributes="Italic" FontFamily=""></Label>
+            <ListView ItemsSource="{Binding Almuerso}" CachingStrategy="RecycleElement">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout>
+                                <Grid>
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="*"></RowDefinition>
+
+
+                                    </Grid.RowDefinitions>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="*"></ColumnDefinition>
+                                        <ColumnDefinition Width="*"></ColumnDefinition>
+
+                                    </Grid.ColumnDefinitions>
+                                    <Label Text="{Binding Nom}" HorizontalTextAlignment="Center" Grid.Column="0" Grid.Row="0" TextColor="White">
+
+                                    </Label>
+                                    <Button Text="-" Clicked="Delalmuerso" CommandParameter="{Binding .}" Grid.Column="1" Grid.Row="0"></Button>
+
+                                </Grid>
+                            </StackLayout>
+                        </ViewCell>
+
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            <Button Text="+" Clicked="Añadiralmuerso"></Button>
+        </StackLayout>
+    </ContentPage>
+    <ContentPage Title="Comida">
+        <StackLayout>
+            <Label Text="Comidas" TextColor="#9BFE9B" FontSize="20" HorizontalTextAlignment="Center" Margin="10" FontAttributes="Italic" FontFamily=""></Label>
+            <ListView ItemsSource="{Binding Comidas}" CachingStrategy="RecycleElement">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout>
+                                <Grid>
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="*"></RowDefinition>
+
+
+                                    </Grid.RowDefinitions>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="*"></ColumnDefinition>
+                                        <ColumnDefinition Width="*"></ColumnDefinition>
+
+                                    </Grid.ColumnDefinitions>
+                                    <Label Text="{Binding Nom}" HorizontalTextAlignment="Center" Grid.Column="0" Grid.Row="0" TextColor="White">
+
+                                    </Label>
+                                    <Button Text="-" Clicked="Delcomida" CommandParameter="{Binding .}" Grid.Column="1" Grid.Row="0"></Button>
+
+                                </Grid>
+                            </StackLayout>
+                        </ViewCell>
+
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            <Button Text="+" Clicked="Añadircomida"></Button>
+        </StackLayout>
+    </ContentPage>
+    <ContentPage Title="Merienda">
+        <StackLayout>
+            <Label Text="Merienda" TextColor="#9BFE9B" FontSize="20" HorizontalTextAlignment="Center" Margin="10" FontAttributes="Italic" FontFamily=""></Label>
+            <ListView ItemsSource="{Binding Meriendas}" CachingStrategy="RecycleElement">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout>
+                                <Grid>
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="*"></RowDefinition>
+
+
+                                    </Grid.RowDefinitions>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="*"></ColumnDefinition>
+                                        <ColumnDefinition Width="*"></ColumnDefinition>
+
+                                    </Grid.ColumnDefinitions>
+                                    <Label Text="{Binding Nom}" HorizontalTextAlignment="Center" Grid.Column="0" Grid.Row="0" TextColor="White">
+
+                                    </Label>
+                                    <Button Text="-" Clicked="Delmerienda" CommandParameter="{Binding .}" Grid.Column="1" Grid.Row="0"></Button>
+
+                                </Grid>
+                            </StackLayout>
+                        </ViewCell>
+
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            <Button Text="+" Clicked="Añadirmerienda"></Button>
+        </StackLayout>
+    </ContentPage>
+    <ContentPage Title="Cena">
+        <StackLayout>
+            <Label Text="Cena" TextColor="#9BFE9B" FontSize="20" HorizontalTextAlignment="Center" Margin="10" FontAttributes="Italic" FontFamily=""></Label>
+            <ListView ItemsSource="{Binding Cenas}" CachingStrategy="RecycleElement">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout>
+                                <Grid>
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="*"></RowDefinition>
+
+
+                                    </Grid.RowDefinitions>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="*"></ColumnDefinition>
+                                        <ColumnDefinition Width="*"></ColumnDefinition>
+
+                                    </Grid.ColumnDefinitions>
+                                    <Label Text="{Binding Nom}" HorizontalTextAlignment="Center" Grid.Column="0" Grid.Row="0" TextColor="White">
+
+                                    </Label>
+                                    <Button Text="-" Clicked="Delcena" CommandParameter="{Binding .}" Grid.Column="1" Grid.Row="0"></Button>
+
+                                </Grid>
+                            </StackLayout>
+                        </ViewCell>
+
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            <Button Text="+" Clicked="Añadircena"></Button>
+        </StackLayout>
+    </ContentPage>
+</TabbedPage>

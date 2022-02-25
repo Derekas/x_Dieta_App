@@ -1,0 +1,296 @@
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\bin\x86\Debug\App.xbf
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\bin\x86\Debug\MainPage.xbf
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\bin\x86\Debug\Dietas_App3.UWP.xr.xml
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\bin\x86\Debug\Dietas_App3.UWP.exe
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\bin\x86\Debug\Dietas_App3.UWP.pdb
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\bin\x86\Debug\resources.pri
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\bin\x86\Debug\AppxManifest.xml
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\bin\x86\Debug\Core\Dietas_App3.UWP.exe
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\bin\x86\Debug\Dietas_App3.UWP.build.appxrecipe
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\bin\x86\Debug\System.Runtime.dll
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\bin\x86\Debug\SQLite-net.dll
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\bin\x86\Debug\SQLiteNetExtensions.dll
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\bin\x86\Debug\SQLiteNetExtensions.pdb
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\bin\x86\Debug\SQLiteNetExtensionsAsync.dll
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\bin\x86\Debug\SQLiteNetExtensionsAsync.pdb
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\bin\x86\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\bin\x86\Debug\SQLitePCLRaw.core.dll
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\bin\x86\Debug\e_sqlite3.dll
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\bin\x86\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.dll
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.winmd
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\bin\x86\Debug\Xamarin.Essentials.dll
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\bin\x86\Debug\Xamarin.Essentials.pdb
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\bin\x86\Debug\Xamarin.Forms.Core.dll
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\bin\x86\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.dll
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.pdb
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\bin\x86\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\bin\x86\Debug\Dietas_App3.dll
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\bin\x86\Debug\Dietas_App3.pdb
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\obj\x86\Debug\Dietas_App3.UWP.csproj.AssemblyReference.cache
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\obj\x86\Debug\App.g.i.cs
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\obj\x86\Debug\App.g.cs
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\obj\x86\Debug\MainPage.g.cs
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\obj\x86\Debug\App.xaml
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\obj\x86\Debug\MainPage.xaml
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\obj\x86\Debug\App.xbf
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\obj\x86\Debug\MainPage.xbf
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\obj\x86\Debug\Dietas_App3.UWP.csproj.CoreCompileInputs.cache
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\obj\x86\Debug\Dietas_App3.UWP.csproj.CopyComplete
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\obj\x86\Debug\Microsoft.UI.Xaml.pri.xml
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\obj\x86\Debug\Xamarin.Essentials.pri.xml
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\obj\x86\Debug\Xamarin.Forms.Platform.UAP.pri.xml
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\obj\x86\Debug\Dietas_App3.UWP.exe
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\obj\x86\Debug\Dietas_App3.UWP.pdb
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\obj\x86\Debug\priconfig.xml
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\obj\x86\Debug\resources.resfiles
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\obj\x86\Debug\pri.resfiles
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\obj\x86\Debug\qualifiers.txt
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\obj\x86\Debug\.winmd_cache\$Microsoft.Graphics.Canvas.winmd_636160715180000000.json
+C:\Users\Derek\Desktop\Dietas_App3\Dietas_App3.UWP\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424743200000000.json
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\App.xbf
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\MainPage.xbf
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Dietas_App3.UWP.xr.xml
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Dietas_App3.UWP.exe
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Dietas_App3.UWP.pdb
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\resources.pri
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\AppxManifest.xml
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Core\AppxManifest.xml
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Core\Dietas_App3.UWP.exe
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Dietas_App3.UWP.build.appxrecipe
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Newtonsoft.Json.dll
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\System.Runtime.dll
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\SQLite-net.dll
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\SQLiteNetExtensions.dll
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\SQLiteNetExtensions.pdb
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\SQLiteNetExtensionsAsync.dll
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\SQLiteNetExtensionsAsync.pdb
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\SQLitePCLRaw.batteries_v2.dll
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\SQLitePCLRaw.core.dll
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\e_sqlite3.dll
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.dll
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.winmd
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Xamarin.Essentials.dll
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Xamarin.Essentials.pdb
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Xamarin.Forms.Core.dll
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Xamarin.Forms.Core.pdb
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.dll
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.pdb
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Xamarin.Forms.Platform.dll
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.dll
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.pdb
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Dietas_App3.dll
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Dietas_App3.pdb
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\Dietas_App3.UWP.csproj.AssemblyReference.cache
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\App.g.i.cs
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\App.g.cs
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\MainPage.g.i.cs
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\MainPage.g.cs
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\XamlTypeInfo.g.cs
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\App.xaml
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\MainPage.xaml
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\App.xbf
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\MainPage.xbf
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\XamlSaveStateFile.xml
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\Dietas_App3.UWP.csproj.CoreCompileInputs.cache
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\Dietas_App3.UWP.csproj.CopyComplete
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\Microsoft.UI.Xaml.pri.xml
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\Xamarin.Essentials.pri.xml
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\Xamarin.Forms.Platform.UAP.pri.xml
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\Dietas_App3.UWP.exe
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\Dietas_App3.UWP.pdb
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\ResourceHandlingTask.state
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\priconfig.xml
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\priconfig.xml.intermediate
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\unfiltered.layout.resfiles
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\filtered.layout.resfiles
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\filtered.layout.resfiles.intermediate
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\excluded.layout.resfiles
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\excluded.layout.resfiles.intermediate
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\resources.resfiles
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\resources.resfiles.intermediate
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\pri.resfiles
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\pri.resfiles.intermediate
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\qualifiers.txt
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\qualifiers.txt.intermediate
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\ProjectArchitectures.txt
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\.winmd_cache\$Microsoft.Graphics.Canvas.winmd_636160715180000000.json
+E:\1.Clase\2ºsuperior\RobertProgramacio\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424743200000000.json
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\App.xbf
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\MainPage.xbf
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Dietas_App3.UWP.xr.xml
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Dietas_App3.UWP.exe
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Dietas_App3.UWP.pdb
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\resources.pri
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\AppxManifest.xml
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Core\Dietas_App3.UWP.exe
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Dietas_App3.UWP.build.appxrecipe
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\System.Runtime.dll
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\SQLite-net.dll
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\SQLiteNetExtensions.dll
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\SQLiteNetExtensions.pdb
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\SQLiteNetExtensionsAsync.dll
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\SQLiteNetExtensionsAsync.pdb
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\SQLitePCLRaw.core.dll
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\e_sqlite3.dll
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.dll
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.winmd
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Xamarin.Essentials.dll
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Xamarin.Essentials.pdb
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Xamarin.Forms.Core.dll
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.dll
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.pdb
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Dietas_App3.dll
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Dietas_App3.pdb
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\Dietas_App3.UWP.csproj.AssemblyReference.cache
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\App.g.i.cs
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\App.g.cs
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\MainPage.g.cs
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\App.xaml
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\MainPage.xaml
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\App.xbf
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\MainPage.xbf
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\Dietas_App3.UWP.csproj.CoreCompileInputs.cache
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\Dietas_App3.UWP.csproj.CopyComplete
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\Microsoft.UI.Xaml.pri.xml
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\Xamarin.Essentials.pri.xml
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\Xamarin.Forms.Platform.UAP.pri.xml
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\Dietas_App3.UWP.exe
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\Dietas_App3.UWP.pdb
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\priconfig.xml
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\resources.resfiles
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\pri.resfiles
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\qualifiers.txt
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\.winmd_cache\$Microsoft.Graphics.Canvas.winmd_636160715180000000.json
+C:\Users\Derek\Desktop\Dietas_App3\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424743200000000.json
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\App.xbf
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\MainPage.xbf
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Dietas_App3.UWP.xr.xml
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Dietas_App3.UWP.exe
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Dietas_App3.UWP.pdb
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\resources.pri
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\AppxManifest.xml
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Core\AppxManifest.xml
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Core\Dietas_App3.UWP.exe
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Dietas_App3.UWP.build.appxrecipe
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Newtonsoft.Json.dll
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\System.Runtime.dll
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\SQLite-net.dll
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\SQLiteNetExtensions.dll
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\SQLiteNetExtensions.pdb
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\SQLiteNetExtensionsAsync.dll
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\SQLiteNetExtensionsAsync.pdb
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\SQLitePCLRaw.batteries_v2.dll
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\SQLitePCLRaw.core.dll
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\e_sqlite3.dll
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.dll
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.winmd
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Xamarin.Essentials.dll
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Xamarin.Essentials.pdb
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Xamarin.Forms.Core.dll
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Xamarin.Forms.Core.pdb
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.dll
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.pdb
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Xamarin.Forms.Platform.dll
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.dll
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.pdb
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Dietas_App3.dll
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\bin\x86\Debug\Dietas_App3.pdb
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\Dietas_App3.UWP.csproj.AssemblyReference.cache
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\App.g.i.cs
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\App.g.cs
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\MainPage.g.i.cs
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\MainPage.g.cs
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\XamlTypeInfo.g.cs
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\App.xaml
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\MainPage.xaml
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\App.xbf
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\MainPage.xbf
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\XamlSaveStateFile.xml
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\Dietas_App3.UWP.csproj.CoreCompileInputs.cache
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\Dietas_App3.UWP.csproj.CopyComplete
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\Microsoft.UI.Xaml.pri.xml
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\Xamarin.Essentials.pri.xml
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\Xamarin.Forms.Platform.UAP.pri.xml
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\Dietas_App3.UWP.exe
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\Dietas_App3.UWP.pdb
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\ResourceHandlingTask.state
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\priconfig.xml
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\priconfig.xml.intermediate
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\unfiltered.layout.resfiles
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\filtered.layout.resfiles
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\filtered.layout.resfiles.intermediate
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\excluded.layout.resfiles
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\excluded.layout.resfiles.intermediate
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\resources.resfiles
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\resources.resfiles.intermediate
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\pri.resfiles
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\pri.resfiles.intermediate
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\qualifiers.txt
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\qualifiers.txt.intermediate
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\ProjectArchitectures.txt
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\.winmd_cache\$Microsoft.Graphics.Canvas.winmd_636160715180000000.json
+E:\1.Clase\2ºsuperior\Projecte Dieta\Dieta_App3\Dietas_App3.UWP\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424743200000000.json

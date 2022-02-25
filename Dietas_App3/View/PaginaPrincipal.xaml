@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Dietas_App3.View.PaginaPrincipal"  
+             BackgroundColor="#B29E81"
+             >
+
+    <ContentPage.Content >
+
+        <StackLayout>
+
+            <Label Text="FitApp" TextColor="#9BFE9B" FontSize="40" HorizontalTextAlignment="Center" Margin="10" FontAttributes="Italic" FontFamily=""></Label>
+                <StackLayout Spacing="10" Padding="20" >
+
+
+
+                <Label Text="Peso"></Label>
+
+                <Slider Value="{Binding Usuario.Peso}" x:Name="MainSlider" Minimum="0" Maximum="150"
+                ValueChanged="OnSliderValueChangedPeso" ThumbColor="Black"/>
+                <Label x:Name="displayLabel"
+                    
+                    HorizontalOptions="Center"
+                    VerticalOptions="CenterAndExpand" />
+
+                 <Label Text="Edad"></Label>
+                 <Entry Text="{Binding Usuario.Edad} " x:Name="edadvalue"></Entry>
+
+                <Label Text="Altura"></Label>
+                <Slider Value="{Binding Usuario.Altura}" x:Name="AlturaSlider" Minimum="0" Maximum="230"
+                ValueChanged="OnSliderValueChangedAltura" ThumbColor="Black"  />
+                <Label x:Name="Altura"
+                    
+                    HorizontalOptions="Center"
+                    VerticalOptions="CenterAndExpand" />
+
+
+                <StackLayout RadioButtonGroup.SelectedValue="{Binding Usuario.sexo}" Orientation="Horizontal">
+                    <Label Text="Sexo :"  />
+                    <RadioButton x:Name="Masculino" Content="Masculino" Value="Masculino" IsChecked="True" HorizontalOptions="CenterAndExpand"/>
+                    <RadioButton x:Name="Femenino" Content="Femenino" Value="Femenino" HorizontalOptions="Center" />
+                 
+                </StackLayout>
+
+
+
+                <Picker Title="Actividad" x:Name="Actividad" SelectedItem="{Binding Usuario.Actividad}">
+                    <Picker.Items>
+                        <x:String>Sedentario</x:String>
+                        <x:String>Poca Actividad</x:String>
+                        <x:String>Actividad moderada</x:String>
+                        <x:String>Actividad intensa</x:String>
+                        <x:String>Profesional</x:String>
+                    </Picker.Items>
+                </Picker>
+                <Button Text="Añadir Datos" Clicked="Adddatos"></Button>
+                <Button Text="Siguiente" Clicked="IrTipos"></Button>
+
+                </StackLayout>
+
+            </StackLayout>
+       
+        
+    </ContentPage.Content>
+</ContentPage>

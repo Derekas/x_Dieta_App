@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Dietas_App3.View.LoadingView"
+             BackgroundColor="#B29E81">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="Center" Padding="50,50,50,50" >
+            <Image Source="colores.jpg" HeightRequest="200" WidthRequest="200"/>
+            <Label Text="Se nota el progreso bb" TextColor="#9BFE9B" FontSize="20" HorizontalTextAlignment="Center" Margin="10" FontAttributes="Italic" FontFamily=""></Label>
+            <ProgressBar x:Name="Progressbar" Progress="0.1" ProgressColor="Cyan" VerticalOptions="Center"  />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
